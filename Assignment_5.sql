@@ -1,5 +1,6 @@
 -- Create Database CSIS2023;
 -- Use CSIS2023;
+-- test
 /*
 Create Table Books(
 		id int auto_increment not null primary key,
