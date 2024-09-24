@@ -1,0 +1,1 @@
+This is just a quick, small script to interact and show, entry-level proficiency in SQL DDL and DML. The following was done in mySQLWorkbench and can be replicated in myPHPadmin(MAMP) and others.
